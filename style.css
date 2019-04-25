@@ -1,0 +1,29 @@
+.row{
+    height:500px;
+	width:100%;
+	background-image:url(IMG1.jpg);
+}
+.text-center{ 
+color:#fff;margin-top:-23%;margin-left:35%;width:42%;
+}
+
+.big{color:white; width:780px;
+}
+.left-div{height:100%;width:40px;
+background-color:lightgreen;margin-left:15%;float:left;
+}
+.right-div{height:60px;width:66.67%;
+background-color:lightblue;margin-right:15.3%;float:right;
+}
+p{margin-top:-1.5%;
+color:lightblue;
+}
+.right-div1{height:20px;width:66.67%;
+background-color:pink;margin-right:15.3%;margin-top:-1.2%;float:right;
+}
+.right-div2{height:20px;width:66.67%;
+background-color:pink;margin-right:15.3%;margin-top:0;float:right;
+}
+.right-div3{height:120px;width:66.67%;
+background-color:thistle;margin-right:15.3%;margin-top:-1%;float:right;
+}
